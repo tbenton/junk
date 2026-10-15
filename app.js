@@ -4,3 +4,5 @@ console.log("thats all");
 What?
   Why is this editor helping?
 
+  let a =2;
+
